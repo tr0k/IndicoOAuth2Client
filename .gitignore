@@ -48,6 +48,5 @@ fabric.properties
 .gitignore
 .idea/
 IndicoOAuth2Client.iml
-src/main/java/indico/oauth2/client/params/CERNClient.java
 src/main/resources/
 target/
